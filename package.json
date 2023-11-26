@@ -1,8 +1,8 @@
 {
 	"name": "@rbxts/for-every-player",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "A simple callback function attached to a player joining or a player leaving event.",
-	"main": "out/init.lua",
+	"main": "out/init.luau",
 	"keywords": ["roblox-ts", "roblox", "player", "user", "callback", "event", "ForEveryPlayer", "PlayerAdded", "PlayerRemoving", "for-every-player"],
 	"author": "kineticwallet",
 	"license": "MIT",
