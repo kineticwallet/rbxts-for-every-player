@@ -1,11 +1,11 @@
 {
-	"name": "@rbxts/rbxts-package-template",
-	"version": "1.0.0",
-	"description": "",
+	"name": "@rbxts/for-every-player",
+	"version": "2.0.0",
+	"description": "A simple callback function attached to a player joining or a player leaving event.",
 	"main": "out/init.lua",
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"keywords": ["roblox-ts", "roblox", "player", "user", "callback", "event", "ForEveryPlayer", "PlayerAdded", "PlayerRemoving", "for-every-player"],
+	"author": "kineticwallet",
+	"license": "MIT",
 	"types": "out/index.d.ts",
 	"files": [
 		"out",
@@ -13,6 +13,15 @@
 	],
 	"publishConfig": {
 		"access": "public"
+	},
+	"readme": "README.md",
+	"bugs": {
+		"url": "https://github.com/kineticwallet/rbxts-for-every-player/issues"
+	},
+	"homepage": "https://github.com/kineticwallet/rbxts-for-every-player",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kineticwallet/rbxts-for-every-player"
 	},
 	"devDependencies": {
 		"@rbxts/compiler-types": "2.2.0-types.0",
