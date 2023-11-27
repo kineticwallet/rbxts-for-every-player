@@ -2,7 +2,7 @@
 	"name": "@rbxts/for-every-player",
 	"version": "2.0.1-ts",
 	"description": "A simple callback function attached to a player joining or a player leaving event.",
-	"main": "out/init.luu",
+	"main": "out/init.lua",
 	"keywords": [
 		"roblox-ts",
 		"roblox",
