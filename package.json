@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/for-every-player",
-	"version": "2.0.1-ts",
+	"version": "2.0.1-ts.1",
 	"description": "A simple callback function attached to a player joining or a player leaving event.",
 	"main": "out/init.lua",
 	"keywords": [
